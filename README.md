@@ -1,3 +1,6 @@
+Postman Collection : https://cloudy-eclipse-438453.postman.co/workspace/PVT23~4c1351d5-7577-4ba9-bb23-3b1dfed06998/collection/27088772-1ce1f419-7885-454b-91bb-16bde12e0f3f?action=share&creator=27088772&active-environment=27088772-13904db5-ee5b-44d8-8895-36c86c538f18
+
+
 Fitness Tracker API Testing 
 
  This API was developed as part of a school project to improve and test API development skills. It aims to provide a data management solution for fitness and health related data. 
